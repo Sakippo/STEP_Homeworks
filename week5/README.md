@@ -4,6 +4,11 @@ Originally By: [Hayato Ito](https://github.com/hayatoito) (hayato@google.com)
 2020-2022 Versions By: [Hugh O'Cinneide](https://github.com/hkocinneide)
 (hughoc@google.com)
 
+## 追記
+- 2-optの実装：solver_two_opt.py
+- 始点を変えて経路の最小値を出力：sample_output_generator.py
+- 出力ファイル：output_{0~6}.csv 
+
 ## Quick Links
 
 - [Scoreboard]
